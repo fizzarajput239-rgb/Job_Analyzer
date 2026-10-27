@@ -1,0 +1,3 @@
+ABC Technologies is hiring an AI Engineer for a full-time on-site role. We need 2-4 years of experience.
+You will build agentic workflows. Required: Python, FastAPI, LangGraph, SQL. Strong communication,
+teamwork and problem solving skills are expected.
